@@ -28,7 +28,15 @@ Toolchain: **KiCad 7.x**, Git, GitHub
 
 ## 📷 Screenshots
 
-> Add images of your schematic and PCB layout here (place them in the `images/` folder)
+
+### 🔌 Schematic View
+![Schematic](Images/STM32_PCB_Schematic.jpg)
+
+### 💻 PCB Layout (2D View)
+![PCB Layout](Images/STM32_PCB_Layout.jpg)
+
+### 🧱 3D Render (if any)
+![3D PCB](Images/STM32_PCB_3D.jpg)
 
 ---
 

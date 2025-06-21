@@ -22,12 +22,10 @@ sym-lib-table
 *.xml
 
 # Gerber outputs
-*.gbr
 *.gtl
 *.gts
 *.gbl
 *.gbo
-*.drl
 *.zip
 
 # OS-generated files
