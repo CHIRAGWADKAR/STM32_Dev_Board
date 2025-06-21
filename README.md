@@ -5,7 +5,7 @@ STM32 PCB Project
 This repository contains the complete KiCad project files for a custom development board based on the **STM32F103C8T6** microcontroller, commonly used in embedded systems and ARM Cortex-M3 learning platforms.
 
 Designed by: **Chirag**  
-Toolchain: **KiCad 7.x**, Git, GitHub
+Toolchain: **KiCad 5.10**
 
 ---
 
@@ -32,10 +32,10 @@ Toolchain: **KiCad 7.x**, Git, GitHub
 ### 🔌 Schematic View
 ![Schematic](Images/STM32_PCB_Schematic.jpg)
 
-### 💻 PCB Layout (2D View)
+### 💻 PCB Layout
 ![PCB Layout](Images/STM32_PCB_Layout.jpg)
 
-### 🧱 3D Render (if any)
+### 🧱 3D Render
 ![3D PCB](Images/STM32_PCB_3D.jpg)
 
 ---
