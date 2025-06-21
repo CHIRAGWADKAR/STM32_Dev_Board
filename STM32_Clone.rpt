@@ -1,0 +1,17 @@
+** Drc report for H:\J_DRIVE\Electronics\STM32_Clone\STM32_Clone.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 3 unconnected pads **
+ErrType(2): Unconnected items
+    @(113.650 mm, 83.775 mm): Pad 6 of J1 on All copper layers
+    @(117.450 mm, 83.625 mm): Pad 6 of J1 on All copper layers
+ErrType(2): Unconnected items
+    @(117.450 mm, 91.375 mm): Pad 6 of J1 on All copper layers
+    @(113.650 mm, 91.225 mm): Pad 6 of J1 on All copper layers
+ErrType(2): Unconnected items
+    @(113.650 mm, 91.225 mm): Pad 6 of J1 on All copper layers
+    @(113.650 mm, 83.775 mm): Pad 6 of J1 on All copper layers
+
+** End of Report **

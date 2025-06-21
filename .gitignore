@@ -1,0 +1,35 @@
+# KiCad backup and autosave files
+*.bak
+*.autosave
+
+# User-specific project files
+*.kicad_prl
+*.kicad_dru
+*.kicad_ste
+
+# Backup folders
+*~*
+__pycache__/
+*.tmp
+fp-info-cache
+sym-lib-table
+
+# Simulation files
+*.sch-bak
+*.cache
+*.net
+*.log
+*.xml
+
+# Gerber outputs
+*.gbr
+*.gtl
+*.gts
+*.gbl
+*.gbo
+*.drl
+*.zip
+
+# OS-generated files
+.DS_Store
+Thumbs.db
