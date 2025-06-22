@@ -1,4 +1,4 @@
-# STM32 PCB Project
+# STM32 PCB Design Project
 
 ## STM32F103C8T6 Dev Board (Custom PCB)
 
