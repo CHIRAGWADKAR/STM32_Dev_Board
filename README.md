@@ -1,11 +1,11 @@
-STM32 PCB Project
+# STM32 PCB Project
 
 # STM32F103C8T6 Dev Board (Custom PCB)
 
 This repository contains the complete KiCad project files for a custom development board based on the **STM32F103C8T6** microcontroller, commonly used in embedded systems and ARM Cortex-M3 learning platforms.
 
 Designed by: **Chirag**  
-Toolchain: **KiCad 5.10**
+Toolchain: **KiCad 5.1.15**
 
 ---
 
