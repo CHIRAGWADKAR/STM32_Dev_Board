@@ -1,10 +1,11 @@
 # STM32 PCB Project
 
-# STM32F103C8T6 Dev Board (Custom PCB)
+## STM32F103C8T6 Dev Board (Custom PCB)
 
-This repository contains the complete KiCad project files for a custom development board based on the **STM32F103C8T6** microcontroller, commonly used in embedded systems and ARM Cortex-M3 learning platforms.
+This repository contains the complete KiCad project files for a custom development board based on the **STM32F103C8T6** microcontroller, 
+commonly used in embedded systems and ARM Cortex-M3 learning platforms.
 
-Designed by: **Chirag**  
+Designed by: **Chirag Wadkar**  
 Toolchain: **KiCad 5.1.15**
 
 ---
@@ -45,4 +46,4 @@ Toolchain: **KiCad 5.1.15**
 - **Power Input**: USB Micro-B (VBus 5V → Regulated to 3.3V)
 - **Programming Methods**:
   - Via USB (DFU mode)
-  - External SWD programmer via SWDIO/SWCLK pins (add header)
+  - External SWD programmer via SWDIO/SWCLK pins.
