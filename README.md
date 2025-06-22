@@ -31,21 +31,12 @@ Toolchain: **KiCad 5.10**
 
 ### 🔌 Schematic View
 ![Schematic](Images/STM32_PCB_Schematic.jpg)
-<p align="center">
-  <img src="Images/STM32_PCB_Schematic.jpg" width="600"/>
-</p>
 
 ### 💻 PCB Layout
 ![PCB Layout](Images/STM32_PCB_Layout.jpg)
-<p align="center">
-  <img src="Images/STM32_PCB_Layout.jpg" width="600"/>
-</p>
 
 ### 🧱 3D Render
 ![3D PCB](Images/STM32_PCB_3D.jpg)
-<p align="center">
-  <img src="Images/STM32_PCB_3D.jpg" width="600"/>
-</p>
 
 ---
 
@@ -54,4 +45,4 @@ Toolchain: **KiCad 5.10**
 - **Power Input**: USB Micro-B (VBus 5V → Regulated to 3.3V)
 - **Programming Methods**:
   - Via USB (DFU mode)
-  - External SWD programmer via SWDIO/SWCLK pins
+  - External SWD programmer via SWDIO/SWCLK pins (add header)
