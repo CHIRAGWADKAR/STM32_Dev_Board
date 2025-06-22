@@ -30,25 +30,22 @@ Toolchain: **KiCad 5.10**
 
 
 ### 🔌 Schematic View
-![Schematic]
+![Schematic](Images/STM32_PCB_Schematic.jpg)
 <p align="center">
   <img src="Images/STM32_PCB_Schematic.jpg" width="600"/>
 </p>
-(Images/STM32_PCB_Schematic.jpg)
 
 ### 💻 PCB Layout
-![PCB Layout]
+![PCB Layout](Images/STM32_PCB_Layout.jpg)
 <p align="center">
   <img src="Images/STM32_PCB_Layout.jpg" width="600"/>
 </p>
-(Images/STM32_PCB_Layout.jpg)
 
 ### 🧱 3D Render
-![3D PCB]
+![3D PCB](Images/STM32_PCB_3D.jpg)
 <p align="center">
   <img src="Images/STM32_PCB_3D.jpg" width="600"/>
 </p>
-(Images/STM32_PCB_3D.jpg)
 
 ---
 
